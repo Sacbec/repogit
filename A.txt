@@ -2,3 +2,4 @@ Contenido del fichero a
 Esta es la nueva modificacion.
 Esta es otra linea de prueba del contenido nuevo que agregue. 
 
+Esta linea la agregue desde github para ver si se borran los cambios locales en mi lap que no hice commit, pero ver si se actualizan.
